@@ -6,8 +6,7 @@ permalink: /fishing-items/reefbane/
 image: /assets/img/reefbane.png
 ---
 
-<div class="img-container">
-  <div class="left">
+![Reefbane Unique Fishing Rod](/assets/img/reefbane.png "Reefbane Unique Fishing Rod")
 
 # Overview
 
@@ -28,12 +27,6 @@ Per the [Inscribed Ultimatum Unique Item Tier List](https://docs.google.com/spre
 - We know for certain that Fairgraves' Tricorne is not required for Reefbane to drop. This is a pretty well-known exception in the broader community, too.
   
 - We've only really seen multiple Reefbanes drop consistently for characters running minmax'd legacy magic find on Standard with Harvest-horizon'd anointed maps using perfect maximum juicing. This is another testament to its extreme scarcity.
-
-  </div>
-  <div class="right">
-    <img alt="Reefbane Unique Fishing Rod" src="/assets/img/reefbane.png" style="float:right;">
-  </div>
-</div>
   
 # Reefbane's Glow
 

@@ -7,15 +7,15 @@ image: /assets/img/ancient-angler.png
 ---
 
 # Sentinel League 3.18
-Sentinel League 3.18 brought with it two new fishing-related Sentinels. The Infested Obsidian Stalker Sentinel and The Ancient Angler Emberstone Apex Sentinel.
 
-<div class="img-container">
-  <div class="left">
+Sentinel League 3.18 brought with it two new fishing-related Sentinels. The Infested Obsidian Stalker Sentinel and The Ancient Angler Emberstone Apex Sentinel.
     
 # The Ancient Angler
-    
+
+![The Ancient Angler Emberstone Apex Sentinel](/assets/img/ancient-angler.png "The Ancient Angler Emberstone Apex Sentinel")
+
 ## Background
-    
+
 When Sentinel launched, Fishcord found these two Mods in the data:
     
 ```
@@ -24,12 +24,6 @@ sentinel_can_purify_corrupted_water
 ```
 
 On Day 1 of Sentinel League, The Ancient Angler was still Unrevealed -- it had not yet been found by any player. We found flavour text that was unaccounted for among the other Revealed Unique Sentinels. The flavour text was:
-
-</div>
-  <div class="right">
-    <img alt="Reefbane Unique Fishing Rod" src="/assets/img/ancient-angler.png" style="float:right;">
-  </div>
-</div>
 
 > "Text": "Under clouds of black beset by crimson lightning, we sailed stormy seas of poison and disease. Only one light shone in that darkness; only one Flame to keep hope alive."
     
@@ -70,16 +64,8 @@ If #2, then finding any enemy which does in fact get empowered by The Ancient An
     
 **The best candidate location for observing something special might be the Alluring Pool, due to the Kalguuran lore referenced on The Ancient Angler. To my knowledge there are no other known fishing secrets tied to the Kalguur.**
 
-<div class="img-container">
-  <div class="left">
-
 # The Infested
-    
+
+![The Infested Obsidian Stalker Sentinel](/assets/img/the-infested.png "The Infested Obsidian Stalker Sentinel")
+
 It spawns worms like [The Writhing Jar](/fishing-items#the-writhing-jar). More information to come.
-    
-  </div>
-  <div class="right">
-    <img alt="Reefbane Unique Fishing Rod" src="/the-infested.png" style="float:right;">
-  </div>
-</div>
-  
