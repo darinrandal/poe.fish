@@ -1,3 +1,9 @@
+---
+layout: page
+title: Frequently Asked Questions
+permalink: /frequently-asked-questions/
+---
+
 # What does fishing look like in non-fishing games?
 There are two common ways fishing is implemented into non-fishing video games.
 - Interactivity with the Environment. Fishing rods are normal pieces of equipment in the game.  There are fish shadows in the water and you can cast into the water at any point.  There are no changes to the user interface or controls.  As the player, you watch the bobber on the water surface and press the appropriate button when you think a fish is on the hook. (e.g. Dark Cloud, Animal Crossing)
