@@ -3,6 +3,7 @@ layout: page
 title: Angler's Mate
 description: In this page we will be storing all of the Angler's Mate articles written by PoorFishWife.
 permalink: /anglers-mate-issues/
+image: /assets/img/anglers-mate/anglers-mate-1.png
 ---
 
 # Angler's Mate Issues

@@ -5,7 +5,6 @@ description: 3.16 Scourge league added brand new fishing modifiers. One of these
 permalink: /scourge-modifiers-fishing/
 ---
 
-
 # Scourge Fishing Modifiers
 ## Scourge modifiers
 3.16 Scourge league brought in a number of new fishing modifiers that can be scourged onto items. The following is a list of all fishing modifiers introduced in 3.16:
@@ -25,10 +24,6 @@ permalink: /scourge-modifiers-fishing/
 
 
 > „You can catch Scourged Fish“ modifier was not obtained by playerbase and, thus, has been lost.
-
-
-
-
 
 These new modifiers provide an additional insight about Fish in Path of Exile:
 
