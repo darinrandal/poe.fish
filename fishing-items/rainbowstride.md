@@ -6,8 +6,7 @@ permalink: /fishing-items/rainbowstride/
 image: /assets/img/rainbowstride.png
 ---
 
-<div class="img-container">
-  <div class="left">
+![Rainbowstride Conjurer Boots](/assets/img/rainbowstride.png "Rainbowstride Conjurer Boots")
 
 # Overview
 [Rainbowstride](https://www.poewiki.net/wiki/Rainbowstride) is a pair of unique Conjurer Boots linked in many ways to fishing. First and foremost, it is a reward from [Baited Expectations](https://www.poewiki.net/wiki/Baited_Expectations) divination card and it is one of the available questlines from Krillson.
@@ -20,12 +19,6 @@ Rainbowstride is among the earliest confirmed fishing items, first released in v
 - The Weeping Death prophecy causes Rainbowstride to drop from Dripping Dead. Dripping Dead is a native mob in Mud Flats, an area with another confirmed secret (the Albino Rhoa and its [feather](/fishing-items/albino-rhoa-feather)).
 -  Cadiro Perandus has an unusually high chance of offering a Rainbowstride for exchange. This is much more common than the item's normal dropweight.
 - Rainbowstride is strangely absent from the Perandus Tackle Box, which only includes Slitherpinch, Fairgraves' Tricorne, an [Albino Rhoa Feather](/fishing-items/albino-rhoa-feather), and a [fishing rod](/fishing-items#fishing-rod).
-
-  </div>
-  <div class="right">
-    <img alt="Rainbowstride Conjurer Boots" src="/assets/img/rainbowstride.png">
-  </div>
-</div>
   
 # Connections to Krillson
 

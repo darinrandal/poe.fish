@@ -6,8 +6,7 @@ permalink: /fishing-items/anomalous-portal-gem/
 image: /assets/img/anomalous-portal-gem.png
 ---
 
-<div class="img-container">
-  <div class="left">
+![Anomalous Portal Gem](/assets/img/anomalous-portal-gem.png "Anomalous Portal Gem")
 
 # Overview
 The alternate quality Portal gem, Anomalous, introduced in Heist has an interesting quality effect.
@@ -17,12 +16,6 @@ Quality Effect: (0.00-0.20)% chance to travel to Winding Pier instead while on a
 # Acquisition
 - This gem can be obtained from sources that provide alternate quality gems, noteably Grand Heist blueprints Repository and Tunnels which provide unusual gems as the reward. Additionally, these specific Grand Heists can offer a [Prime Regrading Lens](https://www.poewiki.net/wiki/Prime_Regrading_Lens) to convert a regular Portal gem into the anomalous alternate quality.
 - If Heists aren't your thing, buying a Prime Regrading Lens and using it on a Portal gem will often be cheaper than purchasing an anomalous portal gem. 
-
-  </div>
-  <div class="right">
-    <img alt="Anomalous Portal Gem" src="/assets/img/anomalous-portal-gem.png">
-  </div>
-</div>
 
 # Testing Suggestions
 

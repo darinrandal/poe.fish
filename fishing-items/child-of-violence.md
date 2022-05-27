@@ -6,8 +6,8 @@ permalink: /fishing-items/child-of-violence/
 image: /assets/img/child-of-violence.png
 ---
 
-<div class="img-container">
-  <div class="left">
+[![Child of Violence Unique Cluster Jewel](/assets/img/child-of-violence.png "Child of Violence Unique Cluster Jewel")](https://poedb.tw/us/Child_of_Violence)
+[![Pitfighter Keystone](/assets/img/pitfighter.png "Pitfighter Keystone")](https://poedb.tw/us/Pitfighter)
 
 # Overview
 Child of Violence is an unfound Unique Small Cluster jewel datamined in 3.10 Delirium League. Secrets of its existence are still a mystery.
@@ -32,13 +32,6 @@ This may merely be a mistake in patch notes, of course, which it seems has happe
 GGG was contacted to get clarity on the discrepancy and hope we would get a simple confirmation that this discrepancy was merely an error in the patch notes and we could close the issue. Unfortunately, a reply from Support, after some pushing, agreed to escalate, but then returned with the stock reply "*I'm afraid we're unable to speculate on this any further*".
 
 The "missing" item (if one even exists) may be a result of Child of Violence being cut after the patch notes were written, but before Delirium went live. Or perhaps Child of Violence truly is an extant overlooked item. Or perhaps there is some other undiscovered item.
-
-  </div>
-  <div class="right">
-    <div><a href="https://poedb.tw/us/Child_of_Violence" target="_blank"><img alt="Child of Violence" src="/assets/img/child-of-violence.png"></a></div>
-    <div style="margin-top:20px;"><a href="https://poedb.tw/us/Pitfighter" target="_blank"><img alt="Pitfighter Keystone" src="/pitfighter.png"></a></div>
-  </div>
-</div>
     
 # Things to consider
 

@@ -6,9 +6,8 @@ permalink: /fishing-items/anglers-plait/
 image: /assets/img/anglers-plait.png
 ---
 
-<div class="img-container">
-  <div class="left">
-  
+![Angler's Plait Unset Ring](/assets/img/anglers-plait.png "Angler's Plait Unset Ring")
+
 # Overview
 [Angler's Plait](https://www.poewiki.net/wiki/Angler%27s_Plait) is one of the rarest and most sought-after secret items in Path of Exile. It is a unique Unset Ring, always dropping as identified and corrupted with the implicit modifier "You can catch corrupted fish" removing the "Has 1 Socket" implicit.
     
@@ -20,12 +19,6 @@ It always has the following explicit mods
 - (20-40)% Increased Fish Bite Sensitivity
     
 Finding an Angler's Plait is no easy feat. Please read this full wiki page in its entirety before you dedicate your time to farming. Missing one step could easily waste you hours of farming.
-    
-  </div>
-  <div class="right">
-    <img alt="Angler's Plait Unset Ring" src="/assets/img/anglers-plait.png">
-  </div>
-</div>
 
 # The Basics
 If you want to find an Angler's Plait follow these easy steps

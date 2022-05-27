@@ -6,8 +6,7 @@ permalink: /fishing-items/albino-rhoa-feather/
 image: /assets/img/albino-rhoa-feather.png
 ---
 
-<div class="img-container">
-  <div class="left">
+![Albino Rhoa Feather](/assets/img/albino-rhoa-feather.png "Albino Rhoa Feather")
 
 # Overview
 The Albino Rhoa Feather is a rare currency item. Associations with fishing include:
@@ -15,12 +14,6 @@ The Albino Rhoa Feather is a rare currency item. Associations with fishing inclu
 - Drop chance from [Perandus Tackle Box](https://www.poewiki.net/wiki/Perandus_chest)
 - [Tormented Fisherman](https://www.poewiki.net/wiki/Tormented_Spirit) (Tormented Illegal Fisherman)
 
-  </div>
-  <div class="right">
-    <img alt="Albino Rhoa Feather" src="/assets/img/albino-rhoa-feather.png">
-  </div>
-</div>
-  
 # The Albino Rhoa and Albino Rhoa Feathers
 
 In Act 1 The Mud Flats, about 1 in 150 instances will contain a special uncommon monster called [Albino Rhoa](https://poedb.tw/us/Albino_Rhoa#Metadata_Monsters_Rhoas_RhoaAlbino).
