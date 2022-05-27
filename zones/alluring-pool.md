@@ -5,8 +5,7 @@ description: A new area found within Expedition Logbooks named the Alluring Pool
 permalink: /zones/alluring-pool/
 ---
 
-<div class="img-container">
-  <div class="left">
+![Alluring Pool - Expedition Logbook Area](/assets/img/alluring-pool.png "Alluring Pool - Expedition Logbook Area")
 
 # Overview
 In 3.15 Expedition league, a new mechanic was added: Logbooks. Underground areas can be blown up and accessed using the explosives. A new fishing-related are was found: Alluring Pool.
@@ -14,12 +13,6 @@ In 3.15 Expedition league, a new mechanic was added: Logbooks. Underground areas
 Currently the most valuable examples are encounters in which the Fisherman "chest" drops a normal Fishing Rod. Out of dozens of examples tested at the time of this writing, we only have n=2 examples in which a normal Fishing Rod drop has occurred.
     
 We do not yet know if these drops are "Pure RNG" or if something more interesting might be going on. (This matters because if the rod drops are *not* "Pure RNG", the special requirements might give us a clue or new information about other fishing secrets.)
-
-  </div>
-  <div class="right">
-    <div><img alt="Areas are Alluring" src="/assets/img/alluring-pool.png"></div>
-  </div>
-</div>
 
 # Finding the Alluring Pool
 The current understanding and best chance of forcing a spawn of an Alluring Pool (as of 2/22/22) is by following these steps:

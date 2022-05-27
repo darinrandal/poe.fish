@@ -6,8 +6,9 @@ permalink: /zones/areas-are-alluring/
 image: /assets/img/areas-are-alluring.png
 ---
 
-<div class="img-container">
-  <div class="left">
+![Areas are Alluring](/assets/img/areas-are-alluring.png "Areas are Alluring")
+
+![Innsbury Edge](/assets/img/innsbury-edge.png "Innsbury Edge")
 
 # Overview
 _Why: The internal name for this sextant is [MapAtlasFishy](https://www.poewiki.net/wiki/List_of_atlas_mods)._
@@ -40,13 +41,6 @@ It seems likely that other sources of Insanity exist. Check out this timeline of
 If the patch notes in 2.3.2 are not just vacuous trolling or future-proofing teasers, that means at least one more source of Insanity exists other than Innsbury Edge and 'Areas are Alluring'.
 
 A large part of general Path of Exile lore involves madness/insanity, and therefore there are many items and events which mention going insane. Oftentimes these references may be completely unrelated to the capital "I" Insanity, the specific secret condition.
-
-  </div>
-  <div class="right">
-    <div><img alt="Areas are Alluring" src="/assets/img/areas-are-alluring.png"></div>
-    <div style="margin-top:20px;"><img alt="Innsbury Edge" src="/assets/img/innsbury-edge.png"></div>
-  </div>
-</div>
 
 ## Effects of Insanity
 

@@ -6,8 +6,7 @@ permalink: /zones/krillson-master-fisherman/
 image: /assets/img/krillson-master-fisherman-baby.jpg
 ---
 
-<div class="img-container">
-  <div class="left">
+![Krillson, Master Fisherman](/assets/img/krillson-master-fisherman-baby.jpg "Krillson, Master Fisherman")
 
 # Overview
 Krillson, Master Fisherman is an extraordinarily rare and random spawn found in acts or map zones voiced by Chris Wilson. There is no known way to force a Krillson spawn.
@@ -25,12 +24,6 @@ The first time Krillson is encountered, he requires a 'gear check' of the exile.
 - _Example_: Catch 3 Red Herrings
 
 There are no verified records of a completed Krillson quest; although, There are plenty of theories about the quests. You can read more about attempting to 'fish up a pair of Rainbowstrides' [here](/fishing-items/rainbowstride#connections-to-krillson).
-
-</div>
-  <div class="right">
-  <img alt="Krillson, Master Fisherman" src="/assets/img/krillson-master-fisherman-baby.jpg">
-  </div>
-</div> 
  
 # What should I do if I find Krillson?
 
