@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Frequently Asked Questions
+description: Some common questions that have been asked often regarding Fishing in Path of Exile
 permalink: /frequently-asked-questions/
 ---
 
