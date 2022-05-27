@@ -37,7 +37,7 @@ Due note that legacy or sythesized standard items may be able to increase the qu
 
 The typical setup is crafting an item with multiple + level to support gems and using a corrupted level 4 enhance to increase quality further.
 
-![92-quality-anomalous-portal.png](/92-quality-anomalous-portal.png)
+![92-quality-anomalous-portal.png](/assets/img/92-quality-anomalous-portal.png)
 
 # References
 - [Fishcord - Anomalous Portal Pinned Message](https://discord.com/channels/670728065059651594/757389599331844126/757394795923636316)
