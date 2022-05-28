@@ -15,13 +15,13 @@ permalink: /horadric-helper-test/
         height: 100%;
         padding: 0;
         margin: 0;
+        background-image: url('/assets/img/fishies.png');
     }
 
     .card-container .card {
         text-align: center;
-        border: 1px #000 solid;
         width: 25%;
-        height: 250px;
+        /*height: 250px;*/
         align-items: center;
         justify-content: center;
         line-height: 250px;
