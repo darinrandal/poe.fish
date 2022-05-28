@@ -1,37 +1,35 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
-    </div>
-
-  </div>
-
+  
 </footer>
 
 <script src="/assets/js/horadric-helper.config.js"></script>
+
+<script>
+  function generateLinkMarkup($contentElement) {
+    const headings = [...$contentElement.querySelectorAll('h1, h2')]
+    const parsedHeadings = headings.map(heading => {
+      return {
+        title: heading.innerText,
+        depth: heading.nodeName.replace(/\D/g,''),
+        id: heading.getAttribute('id')
+      }
+    })
+    const htmlMarkup = parsedHeadings.map(h => `
+    <li class="${h.depth > 1 ? 'pl-4' : ''}">
+      <a href="#${h.id}">${h.title}</a>
+    </li>
+    `)
+    const finalMarkup = `
+      <ul>${htmlMarkup.join('')}</ul>
+    `
+    return finalMarkup
+  }
+
+  var main = document.querySelector('article.markdown');
+  var toc = document.querySelector('ul.toc-items');
+  var mobileToc = document.querySelector('ul.mobile-toc-items');
+  var markup = generateLinkMarkup(main);
+  toc.innerHTML = markup;
+  mobileToc.innerHTML = markup;
+
+</script>

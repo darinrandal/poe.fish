@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Home
 description: An extensive guide to fishing in Path of Exile. Fishing is known to be a mysterious easter egg in Path of Exile with numerous items and quests related to the capture of fish
 image: /assets/img/krillson-master-fisherman.jpg

@@ -4,13 +4,70 @@
   {%- include head.html -%}
 
   <body>
+    <!-- {%- include header.html -%} -->
+    <input type="checkbox" class="hidden toggle" id="menu-control">
+    <input type="checkbox" class="hidden toggle" id="toc-control">
 
-    {%- include header.html -%}
+    <main class="container flex">
+      <aside class="book-menu">
+        <div class="book-menu-content">
+          <nav>
+            <h2 class="book-brand">
+              <a class="flex align-center" href="/"><span>poe.fish</span></a>
+            </h2>
+            <ul>
+              <li class="book-section-flat">
+                <ul>
+                  {%- assign default_paths = site.pages | map: "path" -%}
+            {%- assign page_paths = site.header_pages | default: default_paths -%}
+            {%- for path in page_paths -%}
+              {%- assign my_page = site.pages | where: "path", path | first -%}
+              {%- if my_page.title -%}
+              <li>
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              </li>
+              {%- endif -%}
+            {%- endfor -%}
+                </ul>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </aside>
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
+      <div class="book-page">
+        <header class="book-header">
+          <div class="flex align-center justify-between">
+            <label for="menu-control">
+              <img src="/assets/img/menu.svg" class="book-icon" alt="Menu">
+            </label>
+            <strong>{{ page.title | escape }}</strong>
+            <label for="toc-control">
+              <img src="/assets/img/toc.svg" class="book-icon" alt="Table of Contents">
+            </label>
+          </div>
+
+          <aside class="hidden clearfix">
+            <nav id="TableOfContents">
+              <ul class="mobile-toc-items"></ul>
+            </nav>
+          </aside>
+        </header>
+
+        <article class="markdown">
+          {{ content }}
+        </article>
+
+        <label for="menu-control" class="hidden book-menu-overlay"></label>
       </div>
+
+      <aside class="book-toc">
+        <div class="book-toc-content">
+          <nav id="TableOfContents">
+            <ul class="toc-items"></ul>
+          </nav>
+        </div>
+      </aside>
     </main>
 
     {%- include footer.html -%}
